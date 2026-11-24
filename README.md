@@ -24,5 +24,5 @@ Refactoring `calculateTotalCost` instead of writing a second function prevented 
 
 ## Author
 
--**Name**: Cedrick Mbuyamba  
+* **Name:** Cedrick Mbuyamba  
 - GitHub - [@cedrickmmk](https://github.com)
